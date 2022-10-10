@@ -2,9 +2,9 @@
 Hey, I'm Jacob Gibson, but most of my friends call me Jake. I'm currently working toward a B.S. in Computer Science and a B.S. in Media Arts & Sciences 
 for Game Design at IUPUI. I've been interested in games for nearly as long as I can remember and my passion for programming game mechanics has only been on the rise!
 
-I work best in OOP languages like C++, C#, and Java, but also am familiar with other languages.
-Always going above and beyond people's expectations brings me so much joy and I hope to continue this trend throughout my career.
-Never skipping a line of code and a meticulous attitude towards programming has given me great success in the small projects I've made.
+I work best in OOP languages like C++, C#, and Java, but also am familiar with other languages. I love trying to reverse engineer interesting mechanics in both
+games and other software. My drive for interesting problem solving and experimentation has brought me to a wide variety of fun projects that I've made throughout
+my programming career. Check out some of those projects below!
 
 Relevant Coursework: Calculus I & II, Linear Algebra, Data Structures and Algorithms, Operating Systems, Architecture of Computers, 
 Advanced Game Design, Game Design Psychology and Prototyping
