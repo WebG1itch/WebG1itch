@@ -10,7 +10,7 @@ Relevant Coursework: Calculus I & II, Linear Algebra, Data Structures and Algori
 Advanced Game Design, Game Design Psychology and Prototyping
 
 # Game Development Projects
-* [Competitive FPS](https://github.com/WebG1itch/FPSPracticeSource): A dedicated server authoritative, matchmaking ready, fully networked FPS project I made in Unreal Engine 5 uisng C++ to hone my AAA development skills.
+* [Competitive FPS](https://github.com/WebG1itch/FPSPracticeSource): A dedicated server authoritative, matchmaking ready, fully networked FPS project I made in Unreal Engine 5 uisng C++ to hone my AAA development skills. Check out the repository for a full breakdown of what I did.
 * [JumpShip!](https://github.com/WebG1itch/JumpShipSource): A mobile and browser game build in unity with a small group of friends to see what we could do. Check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.MuuMuuGames.JumpShip) or [itch.io](https://muumuugames.itch.io/jump-ship)
 * Wild Midwest: Coming December 2022, this Unreal Engine 5 project is a simplified real-time strategy game made mostly with Blueprints to make sure I am familiar with all types of workflows. 
 * [Micro Snake](https://github.com/WebG1itch/MicroSnake): Using SFML, I built my own implementation of Snake in C++.... but it's at 150x50px :D
