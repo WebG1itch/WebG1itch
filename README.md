@@ -23,6 +23,7 @@ Advanced Game Design, Game Design Psychology and Prototyping
 * [Heap Merging](https://github.com/WebG1itch/HeapMerging): This program will merge a pre-determined heap with another. Built in C++
 * [nQueens](https://github.com/WebG1itch/nQueens): A text based version of the nQueens problem. This project will take an input `n` and place that many queens on a text based board. Built in C++
 * [Spell Checker](https://github.com/WebG1itch/SpellChecker): An implementation of a hash table, this spell checker will take an input from the user and suggest a new word if it can't find the input in its dictionary. Built in C++
+* [Dijkstras](https://github.com/WebG1itch/DijkstraInC): An implementation of Dijkstras algorithm done in C. Although the input is hardcoded, it's easily changed. It will output the constructed distance array based on the source location.
 * More to come :)
 
 ## Connections
