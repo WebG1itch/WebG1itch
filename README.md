@@ -1,13 +1,13 @@
 # About Me
-Hey, I'm Jacob Gibson, but most of my friends call me Jake. I'm currently working toward a B.S. in Computer Science and a B.S. in Media Arts & Sciences 
-for Game Design at IUPUI. I've been interested in games for nearly as long as I can remember and my passion for programming game mechanics has only been on the rise!
+Hey, I'm Jacob Gibson, but most of my friends call me Jake. I have a B.S. in Computer Science and a B.S. in Media Arts & Sciences 
+for Game Design and Development. I've been interested in games for nearly as long as I can remember and my passion for programming game mechanics complements that perfectly!
 
-I work best in OOP languages like C++, C#, and Java, but I'm also familiar with other languages. I love trying to reverse engineer interesting mechanics in both
+I work best in OOP languages like C++, C#, and Java, but I've recently been doing some web development on the side using Next.js and Tailwind CSS. I love trying to reverse engineer interesting mechanics in both
 games and other software. My drive for interesting problem solving and experimentation has brought me to a wide variety of fun projects that I've made throughout
 my programming career. Check out some of those projects below!
 
 Relevant Coursework: Calculus I & II, Linear Algebra, Data Structures and Algorithms, Operating Systems, Architecture of Computers, 
-Advanced Game Design, Game Design Psychology and Prototyping
+Advanced Game Design, Game Design Psychology and Prototyping, Web Design and Development.
 
 [My website has full breakdowns of all of my major projects!](https://www.jacobgibson.info)
 
